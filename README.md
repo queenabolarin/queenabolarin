@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @queenabolarin
 - 👀 I’m interested in front and back end 
 - 🌱 I’m currently learning html and css on vscode
-- 💞️ I’m looking to collaborate on anything cool
+- 💞️ I’m looking to collaborate 
 - 📫 How to reach me on queennet@hotmail.co.uk or https://www.instagram.com/queen.abolarin/
 
 <!---
